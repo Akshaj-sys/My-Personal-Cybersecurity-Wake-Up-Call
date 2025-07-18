@@ -25,7 +25,7 @@ In the days leading up to my Discrete Mathematics exam on July 15, I was online 
 
 ### 1. Initial but impulsive reaction (but useful learning):
 
-I took the following actions across **both Chrome and Edge** browsers:
+I took the following actions across **both Google Chrome and Microsoft Edge** browsers:
 
 - Cleared all history, cache, cookies, and site data
 - Disabled site notifications from multiple websites
@@ -42,7 +42,7 @@ Disabling cookies meant my login sessions were wiped every time I closed a websi
 | **Browser**        | **Security Actions Taken**                                                                                                   |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Google Chrome**  |  Enabled **Enhanced Protection** (real-time AI-based protection against malicious sites) <br> Enabled **Google Public DNS** <br> Enabled **Secure connection** for insecure public sites <br> Enabled **Warnings** if a password was compromised in a data breach |
-| **Microsoft Edge** |  Enabled **OpenDNS** (Cisco’s secure DNS) <br> Enabled **"Scareware Blocker"** (detects fake tech alert scams) <br> Switched on **"Enhanced Security on the Web"** with _Balanced_ mode |
+| **Microsoft Edge** |  Enabled **OpenDNS** (Cisco’s secure DNS) <br> Enabled **"Scareware Blocker"** (detects fake tech alert scams) <br> Switched on **"Enhanced Security on the Web"** with _Balanced_ mode which along with security also ensures that most sites should be working as expected  |
 
 ## What I Learned
 
@@ -57,7 +57,7 @@ Disabling cookies meant my login sessions were wiped every time I closed a websi
 
 | **Component**      | **Protection Enabled**                             |
 | ------------------ | -------------------------------------------------- |
-| **System-wide**    |  McAfee (valid subscription) <br> Active firewall |
+| **System-wide**    |  McAfee ( 3 years valid subscription) <br> Active firewall  |
 | **Google Chrome**  |  Enhanced Protection <br> Google Public DNS <br> Secure connections <br> warnings for password breach  |
 | **Microsoft Edge** |  OpenDNS <br> Enhanced Web Security (Balanced mode) <br> Scareware Blocker |
 
