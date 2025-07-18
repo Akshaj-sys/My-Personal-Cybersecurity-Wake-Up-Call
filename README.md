@@ -1,6 +1,6 @@
 **🛡️ My Personal Cybersecurity Wake-Up Call**
 
-**Date of Incident:** July 10–15, 2025  
+**Date of Incident:** July 10–13, 2025  
 **Written on:** July 18, 2025
 
 **📌 Context**
@@ -41,7 +41,7 @@ Disabling cookies meant my login sessions were wiped every time I closed a websi
 
 | **Browser**        | **Security Actions Taken**                                                                                                   |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Google Chrome**  |  Enabled **Enhanced Protection** (real-time AI-based protection against malicious sites)  <br> Enabled **Google Public DNS**  <br> Enabled **Secure connection ** for insecure public sites <br> Enabled **warnings** if a password was compromised in a data breach |
+| **Google Chrome**  |  Enabled **Enhanced Protection** (real-time AI-based protection against malicious sites)  <br> Enabled **Google Public DNS**  <br> Enabled **Secure connection** for insecure public sites <br> Enabled **warnings** if a password was compromised in a data breach |
 | **Microsoft Edge** |  Enabled **OpenDNS** (Cisco’s secure DNS)  <br> Enabled **"Scareware Blocker"** (detects fake tech alert scams)  <br> Switched on **"Enhanced Security on the Web"** with _Balanced_ mode |
 
 ** What I Learned**
@@ -55,8 +55,8 @@ Disabling cookies meant my login sessions were wiped every time I closed a websi
 
 ** Final Setup Summary**
 
-| **Component**      | **Protection Enabled**           |
-| ------------------ | -------------------------------- |
+| **Component**      | **Protection Enabled**                             |
+| ------------------ | -------------------------------------------------- |
 | **System-wide**    |  McAfee (valid subscription)  <br> Active firewall |
 | **Google Chrome**  |  Enhanced Protection  <br> Google Public DNS  <br> Secure connections  <br> warnings for password breach  |
 | **Microsoft Edge** |  OpenDNS  <br> Enhanced Web Security (Balanced mode)  <br> Scareware Blocker |
