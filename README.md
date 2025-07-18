@@ -1,7 +1,7 @@
 # 🛡️ My Personal Cybersecurity Wake-Up Call
 
-**Date of Incident:** July 10–13, 2025 
-**Type of Attack:** Scareware notifications
+**Date of Incident:** July 10–13, 2025 <br>
+**Type of Attack:** Scareware notifications <br>
 **Written on:** July 18, 2025
 
 ## 📌 Context
