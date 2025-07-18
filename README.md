@@ -34,7 +34,7 @@ I took the following actions across **both Chrome and Edge** browsers:
  **Side Effects of this reaction:**  
 Disabling cookies meant my login sessions were wiped every time I closed a website. I had to re-enter credentials constantly. This led to frustration — but this step taught me how crucial balanced privacy settings are.
 
-### 2. Fixing It & Securing My System:**
+### 2. Fixing It & Securing My System:
 
 - **Re-enabled Cookies/Preferences** — restored normal functionality like saved logins.
 - **Enhanced Security on Browsers:**
