@@ -31,6 +31,13 @@ I took the following actions across **both Google Chrome and Microsoft Edge** br
 - Disabled site notifications from multiple websites
 - Disabled all cookies and preferences (which later backfired)
 
+**Quick Follow-Up: Antivirus Scans**
+To double-check whether my system was actually infected, I also:
+- Ran a Quick Scan using McAfee (took ~5 minutes)
+- Ran a Full System Scan using McAfee (took ~45 minutes)
+- Both scans returned signalling **no active threats** — confirming it was indeed a scareware pop-up and not a real infection.
+- This step taught me the value of *completely verifying and not panicking*.
+
  **Side Effects of this reaction:**  
 Disabling cookies meant my login sessions were wiped every time I closed a website. I had to re-enter credentials constantly. This led to frustration — but this step taught me how crucial balanced privacy settings are.
 
